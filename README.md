@@ -15,6 +15,6 @@ I am working as a Lead Developer, focused in SAP Development including ABAP, UI5
   
 - :teacher: I mentor people who want to learn more about software development
 
-- :books: I am currently learning Rust, React and Typescript.
+- :books: I am currently learning Node.js, React, Typescript and Rust.
 
 - 💬 Feel free to reach out to me and ask about SAP Development :)
