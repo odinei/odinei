@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/odinei/">LinkedIn</a>
+  |
   <a href="https://www.odinei.com.br">Blog</a>
 </p>
 
